@@ -1,0 +1,34 @@
+table {
+    width: 100%;
+}
+
+ul li {
+    list-style: none;
+}
+
+.alinear {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.right{
+    margin-left: auto;
+}
+
+mat-form-field{
+    width: 140%;
+}
+
+.mat-cell:nth-child(1),
+.mat-header-cell:nth-child(1){
+    flex: 0 0 6%;
+}
+
+
+.tab {
+    border-bottom: 1px solid gray; /* Borde para los botones */
+    padding: 5px 10px; /* Ajusta el espacio interno */
+    background-color: lightgray; /* Color de fondo */
+    cursor: pointer; /* Cambia el cursor al pasar el mouse */
+  }
+  

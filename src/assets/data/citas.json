@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre_cliente": "Guillermo Silva",
+        "nombre_mascota": "Drago",
+        "razon_cita": "Mi mascota sufrio de una quemadura muy grave tras una explosión en casa ",
+        "fecha":  "10/5/2024, 15:48:31"
+    },
+    {
+        "id": 2,
+        "nombre_cliente": "Patricia Silva",
+        "nombre_mascota": "Donovan",
+        "razon_cita": "Al parecer mi gato se gracturo el pie despues de que alguien lo piso",
+        "fecha":  "10/3/2024, 15:48:31"
+    }
+]
